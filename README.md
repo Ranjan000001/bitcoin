@@ -2,7 +2,7 @@
 
 ## 📘 Project Overview
 
-The project involves analyzing crypto market data from including midterm scores, Participation Score, Projects_Score and avcerage score of  Assignments, Quizzes ,  Gender , Department , Extracurricular Activities, Internet Access at Home, Parent Education Level, Family_Income_Level, Grade. The analysis encompasses data cleaning, featur engineering and visualization to understand crypto market patterns and trends.
+The project involves analyzing crypto market data from including Account, Coin, Execution Price, Size Tokens, Size USD, Side, Timestamp IST, Start Position, Direction, Closed PnL, Transaction Hash, Order ID, Crossed, Fee, Trade ID, Timestamp, date, net pnl, time, hours, session, usd per token, position type, timestamp, value, classification. The analysis encompasses data cleaning, featur engineering and visualization to understand crypto market patterns and trends.
 
 ## Data Cleaning and Preprocessing
 
