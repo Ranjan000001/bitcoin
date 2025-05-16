@@ -277,4 +277,4 @@ print("Lasso R²:", lasso.score(X_imputed, y))
 - Features give an abnormal trend risky due to market uncertainty,  may give a wrong trend or change the trend when we enter.
 
 ## Power BI Dashboad
-<img src="crypto market.png" alt="Click to visit Example.com">
+<img src="crypto market .png" alt="Click to visit Example.com">
